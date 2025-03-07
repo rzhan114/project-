@@ -1,4 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
-
-Hello, world
+# dsci-100-project heart disease
+- Heart Disease Predictor 
